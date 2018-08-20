@@ -1,0 +1,10 @@
+name: Advertiser
+main: de.marcmogdanz.advertiser.Advertiser
+version: 1.0
+api-version: 1.12.2
+depend: [Vault]
+commands:
+   ad:
+      description: Generates an url to watch an ad for a reward
+      usage: /ad
+      permission: advertiser.command.ad

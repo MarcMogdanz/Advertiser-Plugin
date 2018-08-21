@@ -29,7 +29,7 @@ Edit your config and restart your server.
 
 **server.port:** Port of the node.js server
 
-**secret: Secret** which is used to authentificate each other (plugin and node.js server)
+**secret:** Secret which is used to authentificate each other (plugin and node.js server)
 
 **cooldown.pull:** Time in seconds until the next pull of redeemed tokens
 
